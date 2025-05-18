@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Tawan 👋 (@glutenz)</h1>
 
-<p align="center">
+<p align="center">https://github.com/glutenz/glutenz/blob/main/README.md
   🎓 Computer Science Student at Khon Kaen University<br>
   👨‍💻 Passionate about Frontend Development & UI/UX Interaction<br>
   🧠 Currently learning database design, API integration, and team collaboration<br>
@@ -8,9 +8,9 @@
 
 ---
 ## 📫 Contact Me
-- Email: gluten.dev@gmail.com
-![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white) : tiktok.com/@gluten_dev
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white) : youtube.com/@gluten_dev
+- 📧 Email: gluten.dev@gmail.com
+- 🎥 YouTube: [@gluten_dev](https://youtube.com/@gluten_dev)
+- 🎵 TikTok: [@gluten_dev](https://www.tiktok.com/@gluten_dev)
 
 ## 🚀 Technical Skills
 
