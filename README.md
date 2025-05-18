@@ -5,9 +5,12 @@
   👨‍💻 Passionate about Frontend Development & UI/UX Interaction<br>
   🧠 Currently learning database design, API integration, and team collaboration<br>
 </p>
-![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white) : tiktok.com/@gluten_dev
 
 ---
+## 📫 Contact Me
+- Email: gluten.dev@gmail.com
+![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white) : tiktok.com/@gluten_dev
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white) : youtube.com/@gluten_dev
 
 ## 🚀 Technical Skills
 
@@ -47,10 +50,7 @@
 
 ---
 
-## 📫 Contact Me
 
-- Email: gluten.dev@gmail.com
-- Tiktok: [TikTok](https://www.tiktok.com/@gluten_dev)
 
 ---
 
