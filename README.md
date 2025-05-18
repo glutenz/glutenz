@@ -7,10 +7,8 @@
 </p>
 
 ---
-## 📫 Contact Me
-- 📧 Email: gluten.dev@gmail.com
-- 🎥 YouTube: [@gluten_dev](https://youtube.com/@gluten_dev)
-- 🎵 TikTok: [@gluten_dev](https://www.tiktok.com/@gluten_dev)
+## - 🎥 YouTube: [@gluten_dev](https://youtube.com/@gluten_dev)
+## - 🎵 TikTok: [@gluten_dev](https://www.tiktok.com/@gluten_dev)
 
 ## 🚀 Technical Skills
 
@@ -49,6 +47,9 @@
 - Learn backend fundamentals (API structure, DB operations)
 
 ---
+## 📫 Contact Me
+
+- 📧 Email: gluten.dev@gmail.com
 
 
 
