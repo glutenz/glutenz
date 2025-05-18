@@ -9,7 +9,7 @@
 ---
  - 🎥 **YouTube** : [@gluten_dev](https://youtube.com/@gluten_dev)
  - 🎵 **TikTok** : [@gluten_dev](https://www.tiktok.com/@gluten_dev)
-
+---
 ## 🚀 Technical Skills
 
 ### 🖥️ Frontend Development
