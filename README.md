@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Tawan 👋 (@glutenz)</h1>
 
-<p align="center">https://github.com/glutenz/glutenz/blob/main/README.md
+<p align="center">
   🎓 Computer Science Student at Khon Kaen University<br>
   👨‍💻 Passionate about Frontend Development & UI/UX Interaction<br>
   🧠 Currently learning database design, API integration, and team collaboration<br>
