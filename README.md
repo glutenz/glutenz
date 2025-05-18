@@ -2,10 +2,10 @@
 
 <p align="center">
   🎓 Computer Science Student at Khon Kaen University<br>
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@yourusername)
   👨‍💻 Passionate about Frontend Development & UI/UX Interaction<br>
   🧠 Currently learning database design, API integration, and team collaboration<br>
 </p>
+![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white) : tiktok.com/@gluten_dev
 
 ---
 
