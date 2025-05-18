@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Tawan 👋 (@glutenz)</h1>
 
 <p align="center">
-  🎓 4th-year Computer Science Student at Khon Kaen University<br>
+  🎓 Computer Science Student at Khon Kaen University<br>
   👨‍💻 Passionate about Frontend Development & UI/UX Interaction<br>
   🧠 Currently learning database design, API integration, and team collaboration<br>
 </p>
@@ -48,8 +48,8 @@
 
 ## 📫 Contact Me
 
-- Email: tawan.m@example.com
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- Email: gluten.dev@gmail.com
+- Tiktok: [TikTok](https://www.tiktok.com/@gluten_dev)
 
 ---
 
